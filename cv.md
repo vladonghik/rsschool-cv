@@ -1,12 +1,12 @@
 # Frontend Developer
 
-### 1. Name
+## 1. Name
 
 Uladzislau Holub
 
 ---
 
-### 2. Contact Info
+## 2. Contact Info
 
 Email: [ctogok@mail.ru](mailto:ctogok@mail.ru)
 Phone: [+375 (29) 289-95-64](tel:+375298299564)
@@ -14,7 +14,7 @@ Telegram: [@vladonghik](https://t.me/vladonghik)
 
 ---
 
-### 3. Skills
+## 3. Skills
 
 - HTML;
 - CSS;
@@ -29,6 +29,6 @@ Telegram: [@vladonghik](https://t.me/vladonghik)
 
 ---
 
-### 5. English level
+## 5. English level
 
 Pre-Intermediate (A2)
