@@ -8,9 +8,9 @@ Uladzislau Holub
 
 ## 2. Contact Info
 
-* Email: [ctogok@mail.ru](mailto:ctogok@mail.ru)
-* Phone: [+375 (29) 289-95-64](tel:+375298299564)
-* Telegram: [@vladonghik](https://t.me/vladonghik)
+- Email: [ctogok@mail.ru](mailto:ctogok@mail.ru)
+- Phone: [+375 (29) 289-95-64](tel:+375298299564)
+- Telegram: [@vladonghik](https://t.me/vladonghik)
 
 ---
 
